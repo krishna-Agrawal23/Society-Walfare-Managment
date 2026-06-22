@@ -45,8 +45,8 @@ A complete society management solution for **Arihant Plaza** housing society (~4
 
 | Platform | URL |
 |----------|-----|
-| 🌐 **Frontend** | [Society-Walfares-and-Managment-vert.vercel.app](https://Society-Walfares-and-Managment-vert.vercel.app/showcase) |
-| 🔗 **Backend API** | [Society-Walfares-and-Managment-zjlf.onrender.com](https://Society-Walfares-and-Managment-zjlf.onrender.com) |
+| 🌐 **Frontend** | [Society-Walfares-and-Managment-vert.vercel.app](https://society-walfare-managment.vercel.app) |
+| 🔗 **Backend API** | [Society-Walfares-and-Managment-zjlf.onrender.com](https://society-walfare-managment.onrender.com) |
 
 ## 🛠️ Tech Stack
 

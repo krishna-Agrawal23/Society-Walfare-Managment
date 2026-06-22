@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,100:A855F7&height=220&section=header&text=Society%20Walfare%0AManagment&fontSize=55&fontColor=5C1304&fontAlignY=35&animation=fadeIn&desc=A+Society+managment+Platform&descColor=101075&descAlignY=58&descSize=24" width="100%"/>
+
 <div align="center">
   <img src="./Images/Home.png" alt="OverView Of the Website" width="48%"/>
 </div>
@@ -368,9 +370,9 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## 👨‍💻 Author
 
-**Krishna Agrawak**
+**Krishna Agrawal**
 
-- GitHub: [@Krishna](https://github.com/krishna-Agrawal23)
+- GitHub: [Krishna](https://github.com/krishna-Agrawal23)
 - LinkedIn: [Krishna Agrawal](https://linkedin.com/in/krishna-agrawal10)
 
 ---

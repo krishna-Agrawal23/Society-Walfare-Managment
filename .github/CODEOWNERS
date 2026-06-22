@@ -1,0 +1,17 @@
+# Code Owners
+# These users will be automatically requested for review on PRs
+
+# Global owners
+* @krishna-Agrawal23
+
+# Frontend
+/client/ @krishna-Agrawal23
+
+# Backend
+/server/ @krishna-Agrawal23
+
+# Documentation
+*.md @krishna-Agrawal23
+
+# CI/CD
+/.github/ @krishna-Agrawal23
